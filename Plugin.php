@@ -9,7 +9,7 @@ public function pluginDetails(){
     return [
         'name'    	=> 'Simple Comments',
         'description' => 'Простая система комментариев',
-        'author'  	=> 'RomanWebart',
+        'author'  	=> 'romanwebart',
         'icon'    	=> 'icon-bar-chart-o'
     ];
 }
