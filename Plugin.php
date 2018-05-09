@@ -1,4 +1,4 @@
-<?php namespace romanwebart\SimpleComments;
+<?php namespace RomanWebart\SimpleComments;
 
 use Backend;
 use System\Classes\PluginBase;
@@ -9,7 +9,7 @@ public function pluginDetails(){
     return [
         'name'    	=> 'Simple Comments',
         'description' => 'Простая система комментариев',
-        'author'  	=> 'romanwebart',
+        'author'  	=> 'RomanWebart',
         'icon'    	=> 'icon-bar-chart-o'
     ];
 }
